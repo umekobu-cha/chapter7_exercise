@@ -3,3 +3,37 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/*これいらん*/
+a {
+  text-decoration: none;
+}
+
+/*
+header {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+}
+
+header .heading {
+  padding: 20 20px;
+  margin: 
+}
+*/
+
+.main-visual {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.heading {
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
