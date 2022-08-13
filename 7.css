@@ -37,3 +37,27 @@ header .heading {
 main {
   width: 840px;
   margin: 50px auto;
+}
+  
+ .webcamp1 {
+   margin-bottom: 30px;
+   border-bottom: 1px solid #d1d1d1;
+    padding-bottom: 30px;
+  }
+ .webcamp2 {
+   margin-bottom: 30px;
+   border-bottom: 1px solid #d1d1d1;
+    padding-bottom: 30px;
+  }
+  
+ .webcamp3 {
+   margin-bottom: 30px;
+   border-bottom: 1px solid #d1d1d1;
+    padding-bottom: 30px;
+  }
+  
+ .webcamp4 {
+   margin-bottom: 30px;
+   border-bottom: 1px solid #d1d1d1;
+    padding-bottom: 30px;
+  }
